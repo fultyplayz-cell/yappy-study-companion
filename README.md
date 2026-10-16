@@ -2,7 +2,7 @@
 
 YAPPY is an offline Grade 12 study companion for Mathematics, Physics, Chemistry, Biology, English, Computer Science, Economics, History, and Geography.
 
-Open `yappy-study-bot.html` in any modern browser. It needs no install, account, API key, or internet connection.
+Open `index.html` in any modern browser. It needs no install, account, API key, or internet connection.
 
 ## Features
 
