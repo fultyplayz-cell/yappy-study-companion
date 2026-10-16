@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manshypanshy.vercel.app/sitemap.xml
